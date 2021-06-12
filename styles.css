@@ -1,0 +1,32 @@
+*{
+  margin:0;
+  padding:0;
+  box-sizing: border-box;
+}
+.hyperlinks
+{
+  background:#fff;
+}
+.hyperlinks ul
+{
+  display:inline-flex;
+  list-style: none;
+  padding-top:100px;
+  margin-top: 100;
+}
+.hyperlinks ul li
+{ 
+  width:35px;
+  margin:25px;
+  padding:5px;
+}
+.buttons
+{
+  margin:25px;
+  padding:10px;
+}
+.image
+{
+  margin-top:100px;
+  padding:50px;
+}
